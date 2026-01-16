@@ -78,8 +78,6 @@ Ez **önkéntes hobby tevékenység**, és nem elvárás az aktív fejlesztés.
 - Jelenleg kizárólag a saját weboldalam üzemel rajta már hónapok óta:
   [https://hatalaistvan.hu](https://hatalaistvan.hu)
 
-Ez **nem egy kész termék**, és nem ígér azonnali eredményeket.
-
 Ez a repository dokumentációs és közösségi célokat szolgál; a Focus CMS forráskódja nem része ennek a repónak.
 
 ---

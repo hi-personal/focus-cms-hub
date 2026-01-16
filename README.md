@@ -82,8 +82,6 @@ This is a **voluntary, hobby-based initiative**, and active development is not a
 - Currently, only my own website has been running on it for months:
   https://hatalaistvan.hu
 
-This is **not a finished product**, and it does not promise immediate results.
-
 This repository serves documentation and community purposes only; the Focus CMS source code is not part of this repository.
 
 ---
