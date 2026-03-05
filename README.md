@@ -14,7 +14,7 @@ The official project website contains the project overview, architecture explana
 
 A list of all Focus CMS repositories is available here:
 
-👉 https://focuscms.hatalaistvan.hu/hu/kategoria/github-repositories/
+👉 https://focuscms.hatalaistvan.hu/en/category/github-repositories/
 
 ---
 
@@ -50,7 +50,7 @@ Die offizielle Projektwebsite enthält eine Projektübersicht, Architektur-Erkl�
 
 Eine Liste aller Focus CMS Repositories ist hier verfügbar:
 
-👉 https://focuscms.hatalaistvan.hu/hu/kategoria/github-repositories/
+👉 https://focuscms.hatalaistvan.hu/de/kategorie/github-repositories/
 
 ---
 
