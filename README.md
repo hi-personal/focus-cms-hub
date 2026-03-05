@@ -1,110 +1,57 @@
-![Focus CMS HUB](https://repository-images.githubusercontent.com/1135204704/379a785e-0d43-4b70-b827-025cdf44e68e)
+![Focus CMS HUB](https://repository-images.githubusercontent.com/1135204704/10a3815e-c0af-4ae3-9886-246df385a703)
 
-# Focus CMS HUB
+# Focus CMS
 
-"Focus CMS project overview and place to join the community"
+Focus CMS is a modular content management system focused on simplicity, transparency and full developer control.
 
----
+The official project website contains the project overview, architecture explanations, demo project and links to all repositories.
 
-Language: English | [Magyar](README.hu.md)
+## Official Website
 
----
+👉 https://focuscms.hatalaistvan.hu
 
-## What is this repository?
+## GitHub Repositories
 
-The **Focus CMS HUB** is the public, concise overview and connection point for my **Focus CMS** project, built on PHP and [Laravel Breeze](https://laravel.com/docs/10.x/starter-kits).
+A list of all Focus CMS repositories is available here:
 
-This repository **does not contain the CMS source code**.
-Instead, it provides a short technical overview, the underlying ideas, and a place for community connection.
-
-The project is currently in an **early stage**, and the core code is being developed in a **private repository**.
+👉 https://focuscms.hatalaistvan.hu/hu/kategoria/github-repositories/
 
 ---
 
-## If you want to start with the technical details
+# Focus CMS (Magyar)
 
-*You may want to review the documents available in this repository:*
+A Focus CMS egy moduláris tartalomkezelő rendszer, amely az egyszerűségre, az átláthatóságra és a teljes fejlesztői kontrollra összpontosít.
 
-- [Vision.md](docs/en/Vision.md)
-- [Community.md](docs/en/Community.md)
-- [Technical description](docs/en/Technical%20description.md)
-- [Demo.md](Demo.md)
+A hivatalos projekt weboldala tartalmazza a tudnivalókat, az architektúra magyarázatait, a demó projektet és az összes tárolóhoz vezető linkeket.
 
----
+## Hivatalos weboldal
 
-## What is the goal of Focus CMS?
+👉 https://focuscms.hatalaistvan.hu
 
-Focus CMS is the practical realization of a long-standing idea of mine.
+## GitHub tárolók
 
-I am exploring a content management system that combines practical elements from several CMS solutions I have used and tested over the years, together with my own experience and ideas.
+Az összes Focus CMS tároló listája itt érhető el:
 
-The main principles are:
-
-- simple
-- transparent
-- not overloaded
-- modern in approach
-- primarily focused on real content
-
-The goal is not to build a “do-everything” system, but a well-thought-out, clean foundation.
+👉 https://focuscms.hatalaistvan.hu/hu/kategoria/github-repositories/
 
 ---
 
-## Why this public HUB?
+# Focus CMS (Deutsch)
 
-I created this repository to:
+Focus CMS ist ein modulares Content-Management-System, das auf Einfachheit, Transparenz und vollständige Entwicklerkontrolle ausgerichtet ist.
 
-- share the core ideas and direction of the project,
-- provide a brief overview for those interested in the concept,
-- create a space for connection, discussion, and shared thinking.
+Die offizielle Projektwebsite enthält eine Projektübersicht, Architektur-Erklärungen, das Demo-Projekt sowie Links zu allen Repositories.
 
-If, over time, a small team and community form around it, the project may evolve into a **more open, community-driven** direction.
+## Offizielle Website
 
----
+👉 https://focuscms.hatalaistvan.hu
 
-## Who am I looking for?
+## GitHub Repositories
 
-People who:
+Eine Liste aller Focus CMS Repositories ist hier verfügbar:
 
-- are interested in designing content management systems,
-- value collaboration and human connection,
-- are open to an open-source mindset,
-- or simply want to discuss ideas and share feedback.
-
-This is a **voluntary, hobby-based initiative**, and active development is not an expectation.
+👉 https://focuscms.hatalaistvan.hu/hu/kategoria/github-repositories/
 
 ---
 
-## Current state of the project
-
-- Core code: private repository
-- Status: functional
-- Currently, only my own website has been running on it for months:
-  https://hatalaistvan.hu
-
-This repository serves documentation and community purposes only; the Focus CMS source code is not part of this repository.
-
----
-
-### Demo (screenshots)
-
-A short visual walkthrough of the admin interface and key features.
-
-> **[View the demo](Demo.hu.md)**
-
----
-
-## How to get involved?
-
-- Discord: `hatala.istvan.personal`
-- Additional contact options:
-  [GitHub profile](https://github.com/hi-personal)
-
----
-
-## Created by
-
-**István Hatala**
-Independent developer – hobby and open-source focused projects
-
-Website: https://hatalaistvan.hu
+© Hatala István
